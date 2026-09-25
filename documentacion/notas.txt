@@ -1,0 +1,3 @@
+Git permite controlar versiones.
+Los commits guardan los cambios.
+GitHub permite almacenar repositorios.
