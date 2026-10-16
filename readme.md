@@ -20,3 +20,5 @@ Práctica de git status
 Mejora 1
 Mejora 2
 Mejora 3
+Cambio sencillo
+Cambio sencillo
