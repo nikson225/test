@@ -16,3 +16,4 @@ Repositorio utilizado para aprender Git y GitHub.
 
 \- Proyecto de 2º SMR
 
+Práctica de git status
